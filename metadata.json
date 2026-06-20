@@ -1,0 +1,6 @@
+{
+  "name": "Bookstore Management System",
+  "description": "A full-stack MERN Bookstore Management System with role-based authentication, book browsing, order placement, and admin item & order inventory controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

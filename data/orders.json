@@ -1,0 +1,50 @@
+[
+  {
+    "id": "order-1",
+    "userId": "user-customer",
+    "customerName": "Jane Doe",
+    "customerEmail": "user@bookstore.com",
+    "books": [
+      {
+        "bookId": "book-1",
+        "title": "The Infinite Horizon",
+        "author": "Evelyn Reed",
+        "price": 14.99,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1543002588-bfa74002ed7e?q=80&w=600&auto=format&fit=crop"
+      },
+      {
+        "bookId": "book-3",
+        "title": "Chords of the Silent Sea",
+        "author": "Julian Vane",
+        "price": 11.49,
+        "quantity": 2,
+        "imageUrl": "https://images.unsplash.com/photo-1512820790803-83ca734da794?q=80&w=600&auto=format&fit=crop"
+      }
+    ],
+    "status": "Delivered",
+    "totalPrice": 37.97,
+    "shippingAddress": "123 Meadow Lane, Green City, GC 90210",
+    "createdAt": "2026-06-18T06:41:20.689Z"
+  },
+  {
+    "id": "order-2",
+    "userId": "user-customer",
+    "customerName": "Jane Doe",
+    "customerEmail": "user@bookstore.com",
+    "books": [
+      {
+        "bookId": "book-4",
+        "title": "Breathe: The Art of Living Slowly",
+        "author": "Amara Lopez",
+        "price": 18,
+        "quantity": 1,
+        "imageUrl": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?q=80&w=600&auto=format&fit=crop"
+      }
+    ],
+    "status": "Processing",
+    "totalPrice": 18,
+    "shippingAddress": "123 Meadow Lane, Green City, GC 90210",
+    "createdAt": "2026-06-20T06:41:20.690Z"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "user-admin",
+    "name": "Store Administrator",
+    "email": "admin@bookstore.com",
+    "hashedPassword": "$2b$10$FjH8tDBUJUhL2KfFgEKYlu/bDDdCXBIwnc9O477n.NAz8OIW7.uru",
+    "role": "admin"
+  },
+  {
+    "id": "user-customer",
+    "name": "Jane Doe",
+    "email": "user@bookstore.com",
+    "hashedPassword": "$2b$10$FjH8tDBUJUhL2KfFgEKYlu9/KVW9MBPFEqWhwsm8eGtpfXpD.XjvO",
+    "role": "customer"
+  }
+]
